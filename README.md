@@ -1,4 +1,4 @@
-### My Reference Guides
+### Reference Guides
 
 #### Quick way to look up and update your programming skills
 Written with ❤️ and broken english. 
