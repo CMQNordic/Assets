@@ -13,7 +13,7 @@ Written with ❤️ and broken english.
   
 ---
   
-### VS Code settings  
+#### VS Code settings  
 ➤ [keybindings.json](https://github.com/CMQNordic/Settings-And-Reference-Guides/blob/main/assets/vscode-settings/keybindings.json)<br>
   
 <nav>
