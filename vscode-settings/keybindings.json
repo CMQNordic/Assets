@@ -151,13 +151,23 @@
   },
   {
     "key": "ctrl+up",
-    "command": "cursorUp",
-    "when": "textInputFocus && !terminalFocus"
+    "command": "cursorMove",
+    "args": {
+      "to": "up",
+      "by": "line",
+      "value": 6
+    },
+    "when": "editorTextFocus"
   },
   {
     "key": "ctrl+down",
-    "command": "cursorDown",
-    "when": "textInputFocus && !terminalFocus"
+    "command": "cursorMove",
+    "args": {
+      "to": "down",
+      "by": "line",
+      "value": 6
+    },
+    "when": "editorTextFocus"
   },
   {
     "key": "ctrl+alt+down",
@@ -203,5 +213,15 @@
     "key": "ctrl+alt+left",
     "command": "cursorWordLeftSelect",
     "when": "textInputFocus && !accessibilityModeEnabled"
+  },
+  {
+    "key": "alt+left",
+    "command": "cursorLeftSelect",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "alt+right",
+    "command": "cursorRightSelect",
+    "when": "textInputFocus"
   }
 ]
