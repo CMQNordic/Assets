@@ -10,5 +10,6 @@
   
 ---
   
-#### VSCode Settings  
-➤ [keybindings.json](https://github.com/CMQNordic/Settings-And-Reference-Guides/blob/main/assets/vscode-settings/keybindings.json)<br>
+#### VSCode settings  
+➤ [settings.json](https://github.com/CMQNordic/Reference-guides-and-setings/blob/main/vscode-settings/settings.json)<br>
+➤ [keybindings.json](https://github.com/CMQNordic/Reference-guides-and-setings/blob/main/vscode-settings/keybindings.json)<br>
